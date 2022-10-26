@@ -14,7 +14,6 @@ on:
       - 'micropython'
       - 'libs/**'
       - '.github/workflows/master.yml'
-  workflow_dispatch:
 
 jobs:
   build_t-call:
